@@ -18,10 +18,10 @@ Bienvenido/a a mi portafolio digital de evidencias. Este espacio documenta mi tr
 
 | Documento | Descripción / Enfoque | Estado |
 | :--- | :--- | :---: |
-| 📄 **[Itinerario Personal y Profesional](./eje-transversal/itinerario.md)** | Presentación, metas a corto/largo plazo, aprendizajes autónomos y plan B. | `Completado` |
+| 📄 **[Itinerario Personal y Profesional](./eje-transversal/itinerario.md)** | Presentación, metas a corto/largo plazo, aprendizajes autónomos y plan B. | `En Proceso` |
 | 📊 **[Análisis del Sector y Competencias](./eje-transversal/sector-y-competencias.md)** | Estudio del sector software local, perfiles demandados y stack tecnológico. | `En Proceso` |
 | 📐 **[Autoevaluación DAFO/CAME](./eje-transversal/dafo-came.md)** | Matriz de empleabilidad, competencias digitales e identificación de brechas. | `En Proceso` |
-| 🌐 **[Marca Personal e Idiomas](./eje-transversal/marca-personal.md)** | Estrategia de identidad digital, presencia en redes y valor del euskera/inglés. | `Completado` |
+| 🌐 **[Marca Personal e Idiomas](./eje-transversal/marca-personal.md)** | Estrategia de identidad digital, presencia en redes y valor del euskera/inglés. | `En Proceso` |
 
 ---
 
