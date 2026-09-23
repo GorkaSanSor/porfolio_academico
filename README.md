@@ -12,6 +12,14 @@
 
 Bienvenido/a a mi portafolio digital de evidencias. Este espacio documenta mi trayectoria formativa en el ciclo de **Desarrollo de Aplicaciones Multiplataforma (DAM)**, integrando el análisis del entorno laboral tecnológico, la autoevaluación de competencias y el seguimiento del módulo de Itinerario Personal para la Empleabilidad (IPE).
 
+## 💻 Proyectos Destacados
+
+| Proyecto | Descripción / Tecnologías | Repositorio |
+| :--- | :--- | :---: |
+| 🤖 **Estructuras de Datos en C** | Gestión de memoria, punteros y estructuras creadas en 42 Urduliz. | [Ver Repo](https://github.com/GorkaSanSor) |
+| ☕ **Fundamentos de Java** | Prácticas de programación orientada a objetos y lógica de negocio. | [Ver Repo](https://github.com/GorkaSanSor) |
+| ⚙️ **Scripts & Automatización** | Herramientas en línea de comandos y flujos de trabajo con Git. | [Ver Repo](https://github.com/GorkaSanSor) |
+
 ---
 
 ## 🛣️ Eje Transversal (Orientación & Mercado)
