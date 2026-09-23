@@ -7,23 +7,23 @@
 
 ## 🧩 1. Matriz DAFO de Empleabilidad
 
+### 🟨 Debilidades (Internas)
+* Experiencia laboral previa limitada específicamente en el sector IT.
+* Necesidad de profundizar en frameworks avanzados de desarrollo actual.
+
+### 🟥 Amenazas (Externas)
+* Alta competencia de candidatos en puestos Junior.
+* Evolución tecnológica acelerada que requiere actualización constante de conocimientos.
+
 ### 🟩 Fortalezas (Internas)
 * Interés constante en la tecnología, la lógica y el aprendizaje técnico autónomo.
 * Capacidad de adaptación al uso de herramientas digitales y entornos de desarrollo.
 * Metodología estructurada para la resolución de problemas y la documentación.
 
-### 🟨 Debilidades (Internas)
-* Experiencia laboral previa limitada específicamente en el sector IT.
-* Necesidad de profundizar en frameworks avanzados de desarrollo actual.
-
 ### 🟦 Oportunidades (Externas)
 * Elevada demanda de perfiles técnicos en el sector de desarrollo y la industria local.
 * Disponibilidad de proyectos Open Source para adquirir práctica real y visibilidad.
 * Redes profesionales y plataformas como GitHub para mostrar evidencias técnicas.
-
-### 🟥 Amenazas (Externas)
-* Alta competencia de candidatos en puestos Junior.
-* Evolución tecnológica acelerada que requiere actualización constante de conocimientos.
 
 ---
 
