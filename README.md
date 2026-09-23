@@ -16,9 +16,9 @@ Bienvenido/a a mi portafolio digital de evidencias. Este espacio documenta mi tr
 
 | Proyecto | Descripción / Tecnologías | Repositorio |
 | :--- | :--- | :---: |
-| 🤖 **Estructuras de Datos en C** | Gestión de memoria, punteros y estructuras creadas en 42 Urduliz. | [Ver Repo](https://github.com/GorkaSanSor) |
-| ☕ **Fundamentos de Java** | Prácticas de programación orientada a objetos y lógica de negocio. | [Ver Repo](https://github.com/GorkaSanSor) |
-| ⚙️ **Scripts & Automatización** | Herramientas en línea de comandos y flujos de trabajo con Git. | [Ver Repo](https://github.com/GorkaSanSor) |
+| 🤖 **Base de datos de contraseñas con KeePassTarea** | Cómo crear una base de datos de contraseñas con KeePass y cómo registrar una contraseña en ella. | [Ver Repo](https://github.com/GorkaSanSor) |
+| ☕ **Unity – BrickBall** | Crear en Unity un pequeño juego 2D llamado BrickBall. | [Ver Repo](https://github.com/GorkaSanSor) |
+| ⚙️ **CV and Cover Lettern** | Submit my CV and cover letter in English without AI. | [Ver Repo](https://github.com/GorkaSanSor) |
 
 ---
 
