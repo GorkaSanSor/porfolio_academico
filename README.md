@@ -35,8 +35,7 @@ Bienvenido/a a mi portafolio digital de evidencias. Este espacio documenta mi tr
 
 ## 🧱 Hitos de Aprendizaje (Evidencias y Reflexión)
 
-<details open>
-<summary><b>📚 Módulos y Bloques de Trabajo</b></summary>
+### 📚 Módulos y Bloques de Trabajo
 
 * 🛡️ **[Hito 1: Prevención de Riesgos Laborales (PRL)](./hitos/hito-1.md)**  
   *Evaluación de riesgos en puestos de desarrollo, ergonomía postural y normativa de seguridad laboral.*
@@ -44,8 +43,6 @@ Bienvenido/a a mi portafolio digital de evidencias. Este espacio documenta mi tr
   *Análisis del marco legal, tipos de contratos en el sector IT, nóminas y Convenio TIC.*
 * 📈 **[Hito 3: Mercado Laboral](./hitos/hito-3.md)**  
   *Procesos de selección, canales de búsqueda de empleo informático y estrategias de inserción.*
-
-</details>
 
 ---
 
