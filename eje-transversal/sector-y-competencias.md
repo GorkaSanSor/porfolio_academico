@@ -7,7 +7,7 @@
 ---
 
 ## 🏢 1. Panorama del Sector Tecnológico
-El sector del desarrollo software se encuentra en un proceso constante de expansión y transformación. La demanda de perfiles técnicos capacitados para construir soluciones multiplataforma (Web, Desktop, Mobile) y sistemas integrados es creciente en el tejido industrial y tecnológico local.
+El sector del desarrollo software se encuentra en un proceso constante de expansión y transformación. La demanda de perfiles técnicos capacitados para construir soluciones multiplataforma (Web, Desktop, Mobile) y sistemas integrados es creciente en el tejido industrial y tecnológico y con los avances de la IA hay que aprender como manejarla, revisarla y planificarla para que los resultados sean adecuados y escalables.
 
 ---
 
