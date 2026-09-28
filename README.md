@@ -10,7 +10,7 @@
 
 ## 📌 Presentación
 
-Bienvenido/a a mi portafolio digital de evidencias. Este espacio documenta mi trayectoria formativa en el ciclo de **Desarrollo de Aplicaciones Multiplataforma (DAM)**, integrando el análisis del entorno laboral tecnológico, la autoevaluación de competencias y el seguimiento del módulo de Itinerario Personal para la Empleabilidad (IPE).
+Bienvenid@ a mi portafolio digital. Este espacio documenta mi trayectoria formativa en el ciclo de **Desarrollo de Aplicaciones Multiplataforma (DAM)** en el Centro de Estudios Almi, integrando el análisis del entorno laboral tecnológico, la autoevaluación de competencias y el seguimiento del módulo de Itinerario Personal para la Empleabilidad (IPE).
 
 ## 💻 Proyectos Destacados
 
