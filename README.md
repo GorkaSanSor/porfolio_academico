@@ -16,7 +16,7 @@ Bienvenid@ a mi portafolio digital. Este espacio documenta mi trayectoria format
 
 | Proyecto | Descripción / Tecnologías | Repositorio |
 | :--- | :--- | :---: |
-| 🤖 **Ejercicios de Fundamentos de Javaa** | Comienzo de 0 con ejercicios básicos | [Ver Repo](https://github.com/GorkaSanSor/JavaHelloWorld) |
+| 🤖 **Ejercicios de Fundamentos de Java** | Comienzo de 0 con ejercicios básicos | [Ver Repo](https://github.com/GorkaSanSor/JavaHelloWorld) |
 | ☕ **Unity – BrickBall** | Crear en Unity un pequeño juego 2D llamado BrickBall. | [Ver Repo](https://github.com/GorkaSanSor) |
 | ⚙️ **CV and Cover Lettern** | Submit my CV and cover letter in English without AI. | [Ver Repo](https://github.com/GorkaSanSor) |
 
