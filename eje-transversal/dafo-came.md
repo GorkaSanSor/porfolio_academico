@@ -12,7 +12,7 @@
 * Necesidad de profundizar en frameworks avanzados de desarrollo actual.
 
 ### 🟥 Amenazas (Externas)
-* Alta competencia de candidatos en puestos Junior.
+* Alta competencia de candidatos en puestos Junior y nivel más exigente debido a la IA.
 * Evolución tecnológica acelerada que requiere actualización constante de conocimientos.
 
 ### 🟩 Fortalezas (Internas)
