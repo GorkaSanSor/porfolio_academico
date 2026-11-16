@@ -43,6 +43,8 @@ Bienvenid@ a mi portafolio digital. Este espacio documenta mi trayectoria format
   *Análisis del marco legal, tipos de contratos en el sector IT, nóminas y Convenio TIC.*
 * 📈 **[Hito 3: Mercado Laboral](./hitos/hito-3.md)**  
   *Procesos de selección, canales de búsqueda de empleo informático y estrategias de inserción.*
+* 🩹 Hito adicional: Curso de Primeros Auxilios
+  *Asistencia a curso formativo de 1h de primeros auxilios a través de DAM1.
 
 ---
 
